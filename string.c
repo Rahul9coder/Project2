@@ -51,7 +51,6 @@ int main()
             c = max(c, lc);
         }
         printf("Reverse match=%.2f\n", ((float)c / l2) * 100.00);
-    }
     return 0;
 }
 
